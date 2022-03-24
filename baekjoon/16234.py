@@ -27,7 +27,6 @@ def bfs(x, y):
 	temp.append([x, y])
 
 	while queue:
-		#print(queue)
 		x,y = queue.popleft()
 
 		for i in range(4):
