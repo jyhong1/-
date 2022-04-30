@@ -1,1 +1,1 @@
-#code practive repo.
+#code practice repo.
